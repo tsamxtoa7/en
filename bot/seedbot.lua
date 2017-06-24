@@ -262,7 +262,7 @@ function create_config( )
     "help"
 
     },
-    sudo_users = {125734499,0,0,0,tonumber(our_id)},--Sudo users
+    sudo_users = {1257399,0,0,376184102},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v4
 An advanced administration bot based on TG-CLI written in Lua
@@ -270,7 +270,7 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/Tarfand-pro/Tarfand
 
 Admins
-@NECCBOT
+
 
 ]],
     help_text_realm = [[
